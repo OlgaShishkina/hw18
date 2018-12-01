@@ -1,4 +1,4 @@
-var btn1 = document.getElementById("btn1");
+var btn1 = document.getElementById("btn1"); /* находим элемент в документе html по его id*/
 var btn2 = document.getElementById("btn2");
 var main = document.getElementById("main");
 var myList = document.getElementById("list");
